@@ -2,8 +2,11 @@
 A simple 3D game. More to come soon...
 
 ## Compile instructions
-
-    cd [path to game-1.0]/build
+    
+    cd [path to game-1.0]
+    mkdir build
+    cd build
+    cmake ..
     make
 
 ## Controls
